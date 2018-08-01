@@ -16,7 +16,7 @@ In this lab we will query data from a table populated with Babe Ruth's career hi
 
 ## Babe Ruth -- Career Hitting Statistics
 
-> Download the database `babe_ruth.db` from the link provided.
+> Download the database `babe_ruth.db` from [this link](https://github.com/learn-co-curriculum/sql-queries-with-aggregate-functions-lab-skills)
 
 We will query from the `babe_ruth_stats` table featured below.  Write your queries as strings inside the SQLite "Execute SQL" tab.
 
